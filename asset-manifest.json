@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/orixa-login/static/css/main.dc6c8960.css",
+    "main.js": "/orixa-login/static/js/main.84126ad9.js",
+    "index.html": "/orixa-login/index.html",
+    "main.dc6c8960.css.map": "/orixa-login/static/css/main.dc6c8960.css.map",
+    "main.84126ad9.js.map": "/orixa-login/static/js/main.84126ad9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc6c8960.css",
+    "static/js/main.84126ad9.js"
+  ]
+}
